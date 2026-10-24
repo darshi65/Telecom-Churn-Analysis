@@ -105,7 +105,7 @@ Scripts live in [`/sql`](sql) and are meant to be run in order.
 
 ### Page 1 — Telecom Churn Dashboard
 
-![Churn dashboard]<img width="960" height="598" alt="Dashboard_summary" src="https://github.com/user-attachments/assets/cac6458a-58b3-4a25-8ae6-f12afd3bca82" />
+<img width="960" height="598" alt="Dashboard_summary" src="https://github.com/user-attachments/assets/cac6458a-58b3-4a25-8ae6-f12afd3bca82" />
 
 - **KPI cards:** Total Customers (6,418), New Joiners (411), Total Churn (1,732), Churn Rate (26.99%), Revenue Lost to Churn (3.41M)
 - **Slicers:** Monthly Charge Range, Marital Status
@@ -113,7 +113,7 @@ Scripts live in [`/sql`](sql) and are meant to be run in order.
 
 ### Page 2 — Telecom Churn: Prediction
 
-![Prediction dashboard]<img width="960" height="542" alt="Dashboard_prediction" src="https://github.com/user-attachments/assets/cab8e3bf-0d69-4b90-ae8d-89a27f98cc4e" />
+<img width="960" height="542" alt="Dashboard_prediction" src="https://github.com/user-attachments/assets/cab8e3bf-0d69-4b90-ae8d-89a27f98cc4e" />
 
 A profile of customers the model predicts will churn (age, gender, marital status, tenure, contract, state, payment method) plus a customer-level table with monthly charge, total revenue and refunds, so a retention team can see who they are and how much revenue is involved.
 
@@ -121,7 +121,7 @@ A profile of customers the model predicts will churn (age, gender, marital statu
 
 ## 🤖 Part 3 — Python Churn Model
 
-Code: [`python/churn_modeling.py`](python/churn_modeling.py) (add your notebook as `python/churn_modeling.ipynb` if you work in Jupyter).
+Code: [`python/churn_modeling.py`](python/churn_modeling.py).
 
 **Pipeline**
 
